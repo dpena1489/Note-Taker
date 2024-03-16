@@ -14,7 +14,8 @@
 
 * [Author](#author)
 
-
+------
+## Github Repo link : https://github.com/dpena1489/Note-Taker
 
 ------
 
