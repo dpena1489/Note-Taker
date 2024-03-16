@@ -50,6 +50,10 @@ The functionality of this app relies on the GET, POST, and DELETE methods. The G
 
 
 
+https://github.com/dpena1489/Note-Taker/assets/150938385/831457af-b27b-48ff-8ebe-db90d8904636
+
+
+
 ## Author
 ------
 
